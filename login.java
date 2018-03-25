@@ -2,8 +2,8 @@ class login
            {
 		   public static void main(string args[])
 		   { 
-			   a=8000;
-			   b=100;
+			   a=6600;
+			   b=7600;
 			   c=a+b;
 			   system.out.println(c);
 		   }
